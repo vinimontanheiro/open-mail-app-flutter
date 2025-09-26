@@ -36,6 +36,7 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
+    namespace 'com.homex.open_mail_app'
 }
 
 dependencies {
