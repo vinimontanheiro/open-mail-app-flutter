@@ -57,6 +57,8 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+
+    namespace 'com.homex.open_mail_app'
 }
 
 flutter {

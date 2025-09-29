@@ -21,7 +21,6 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.homex.open_mail_app
         pluginClass: OpenMailAppPlugin
       ios:
         pluginClass: OpenMailAppPlugin
